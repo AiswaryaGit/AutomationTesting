@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-11T21:05:02 PDT" name="Default suite" finished-at="2022-05-11T21:05:14 PDT" duration-ms="11685">
+    <groups>
+    </groups>
+    <test started-at="2022-05-11T21:05:02 PDT" name="Default test" finished-at="2022-05-11T21:05:14 PDT" duration-ms="11685">
+      <class name="AmazonPortal.GoogleSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AmazonPortal.GoogleSearchTest@4145bad8]" started-at="2022-05-11T21:04:55 PDT" name="setUp" finished-at="2022-05-11T21:05:02 PDT" duration-ms="7083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="amazonSearch()[pri:0, instance:AmazonPortal.GoogleSearchTest@4145bad8]" started-at="2022-05-11T21:05:02 PDT" name="amazonSearch" finished-at="2022-05-11T21:05:09 PDT" duration-ms="6744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonSearch -->
+        <test-method signature="searchAndSelectProduct()[pri:0, instance:AmazonPortal.GoogleSearchTest@4145bad8]" started-at="2022-05-11T21:05:09 PDT" name="searchAndSelectProduct" finished-at="2022-05-11T21:05:14 PDT" duration-ms="4835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndSelectProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AmazonPortal.GoogleSearchTest@4145bad8]" started-at="2022-05-11T21:05:14 PDT" name="tearDown" finished-at="2022-05-11T21:05:14 PDT" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AmazonPortal.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
